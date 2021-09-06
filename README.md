@@ -106,6 +106,13 @@ console.log( symbols );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/property-names-in`][@stdlib/utils/property-names-in]: return an array of an object's own and inherited enumerable and non-enumerable property names.
+-   [`@stdlib/utils/property-symbols`][@stdlib/utils/property-symbols]: return an array of an object's own symbol properties.
+
 </section>
 
 <!-- /.related -->
@@ -168,6 +175,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-property-symbols-in/main/LICENSE
 
 [@stdlib/symbol/ctor]: https://github.com/stdlib-js/symbol-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/utils/property-names-in]: https://github.com/stdlib-js/utils-property-names-in
+
+[@stdlib/utils/property-symbols]: https://github.com/stdlib-js/utils-property-symbols
+
+<!-- </related-links> -->
 
 </section>
 
