@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import propertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-symbols-in@deno/mod.js';
+import propertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-symbols-in@v0.2.1-deno/mod.js';
 ```
 
 #### propertySymbolsIn( obj )
@@ -76,7 +76,7 @@ var symbols = propertySymbolsIn( [] );
 ```javascript
 import hasSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-symbol-support@deno/mod.js';
 import Symbol from 'https://cdn.jsdelivr.net/gh/stdlib-js/symbol-ctor@deno/mod.js';
-import propertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-symbols-in@deno/mod.js';
+import propertySymbolsIn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-property-symbols-in@v0.2.1-deno/mod.js';
 
 var hasSymbols = hasSymbolSupport();
 
